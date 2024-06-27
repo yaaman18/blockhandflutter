@@ -38,7 +38,6 @@ dependencies:
   crypto: ^3.0.3
   bip39: ^1.0.6
   bs58: ^1.0.2
-  dargon2_flutter: ^3.3.0
   sha3: ^0.2.0
   convert: ^3.1.1
   flutter_launcher_icons: ^0.13.1
